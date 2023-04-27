@@ -1,11 +1,6 @@
 
- 
- 
-##
 <div>
- <h1 align="center">Mateus Souza</h1>
- <p align="center">🌱 Estudando programação</p>
- 
+ <h1 align="center">🌱 Mateus Souza</h1>
 </div>
  
 <div>
