@@ -4,7 +4,7 @@
 </div>
  
 <div>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusSouzadel&show_icons=true&theme=codeSTACKr"&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api?username=MateusSouzadel&show_icons=true&theme=codeSTACKr"&include_all_commits=true&count_private=true/>
   <img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSouzadel&htrue&theme=codeSTACKr"/>
 </div>
 
