@@ -6,12 +6,10 @@
 <div>
   <img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api?username=MateusSouzadel&show_icons=true&theme=codeSTACKr"&include_all_commits=true&count_private=true/>
   <img align="center" height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSouzadel&htrue&theme=codeSTACKr"/>
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 </div>
 
 <div><br>
   <img src="https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0097.gif"/>
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 </div>
 
 
