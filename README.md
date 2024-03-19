@@ -10,9 +10,10 @@
 
 <div><br>
   <img src="https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0097.gif"/>
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-09131b?style=for-the-badge&logo=linkedin&logoColor=0000)](https://www.linkedin.com/in/mateus-souza-3a311a179/)
